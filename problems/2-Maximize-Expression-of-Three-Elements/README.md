@@ -1,4 +1,4 @@
-# **Maximize Expression of Three Elements**
+# **2. Maximize Expression of Three Elements**
 **Difficulty:** Easy  
 **Points:** 3 pt  
 
