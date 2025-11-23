@@ -23,6 +23,8 @@ Return the **maximum water** a container can store.
 
 ## 📌 **Example 1**
 
+![Container With Most Water](/mnt/data/931c5d60-f680-413e-96e3-72c18f9dd9d5.png)
+
 **Input:**  
 `height = [1,8,6,2,5,4,8,3,7]`
 
