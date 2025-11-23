@@ -1,6 +1,8 @@
 # **Median of Two Sorted Arrays**
+
 **Difficulty:** Hard  
 **LeetCode Link:** https://leetcode.com/problems/median-of-two-sorted-arrays/
+
 ---
 
 ## 📝 **Problem Description**
@@ -20,7 +22,7 @@ The overall run time complexity should be **O(log (m + n))**.
 `2.00000`
 
 **Explanation:**  
-Merged array = `[1, 2, 3]` and median is `2`.
+Merged array = `[1, 2, 3]` → median is `2`.
 
 ---
 
@@ -33,7 +35,7 @@ Merged array = `[1, 2, 3]` and median is `2`.
 `2.50000`
 
 **Explanation:**  
-Merged array = `[1, 2, 3, 4]` and median is `(2 + 3) / 2 = 2.5`.
+Merged array = `[1, 2, 3, 4]` → median is `(2 + 3) / 2 = 2.5`.
 
 ---
 
@@ -45,4 +47,5 @@ Merged array = `[1, 2, 3, 4]` and median is `(2 + 3) / 2 = 2.5`.
 - `0 <= n <= 1000`  
 - `1 <= m + n <= 2000`  
 - `-10^6 <= nums1[i], nums2[i] <= 10^6`
+
 
