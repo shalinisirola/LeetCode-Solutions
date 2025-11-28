@@ -23,7 +23,7 @@ Determine if a `9 x 9` Sudoku board is valid. Only the **filled cells** need to 
 ## 📌 **Example 1**
 
 <!-- Replace the path below with the actual path/URL of your Sudoku image in the repo -->
-![Valid Sudoku Board](Arrays/36_Valid-Sudoku/images/sudoku.png)
+![Valid Sudoku Board](https://github.com/shalinisirola/LeetCode-Solutions/blob/main/Arrays/36_Valid-Sudoku/images/sudoku.png)
 
 **Input:**
 ```text
