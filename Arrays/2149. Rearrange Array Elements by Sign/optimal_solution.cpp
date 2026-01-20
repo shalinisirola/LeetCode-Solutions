@@ -17,7 +17,6 @@ public:
             }
         }
 
-        nums = res;
-        return nums;
+        return res;
     }
 };
